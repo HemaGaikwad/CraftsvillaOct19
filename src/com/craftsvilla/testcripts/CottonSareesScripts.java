@@ -7,7 +7,7 @@ public class CottonSareesScripts
 	@Test
 	public void tc_01_cottonSareesScript()
 	{
-		
+		//Syso
 	}
 
 }
