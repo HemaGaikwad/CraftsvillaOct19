@@ -1,5 +1,13 @@
 package com.craftsvilla.testcripts;
 
-public class CottonSareesScripts {
+import org.testng.annotations.Test;
+
+public class CottonSareesScripts
+{
+	@Test
+	public void tc_01_cottonSareesScript()
+	{
+		
+	}
 
 }
