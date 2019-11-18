@@ -7,6 +7,7 @@ import com.craftsvilla.generic.ReadExcel;
 import com.craftsvilla.pompage.HomePage;
 import com.craftsvilla.pompage.SignInPage;
 
+//This class holds all the testcases for Login Module
 public class LogInScripts extends BaseTest
 {
 	HomePage homepage = null;
